@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula1", "aula1.csproj", "{16BE1F71-1F49-4913-B45E-F110F9F09DF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeEstoque", "ControleDeEstoque.csproj", "{CABBD027-CD97-4648-B004-CD35B1455AAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{16BE1F71-1F49-4913-B45E-F110F9F09DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{16BE1F71-1F49-4913-B45E-F110F9F09DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{16BE1F71-1F49-4913-B45E-F110F9F09DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{16BE1F71-1F49-4913-B45E-F110F9F09DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABBD027-CD97-4648-B004-CD35B1455AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABBD027-CD97-4648-B004-CD35B1455AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABBD027-CD97-4648-B004-CD35B1455AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABBD027-CD97-4648-B004-CD35B1455AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CA22481B-B824-4325-9118-9D62639535F6}
+		SolutionGuid = {FAEE53A9-A96A-4D20-A347-82C29217A995}
 	EndGlobalSection
 EndGlobal

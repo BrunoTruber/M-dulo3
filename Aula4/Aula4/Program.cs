@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace aula2_codelab
+namespace Aula4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Jogo jogo = new Jogo();
+            jogo.Iniciar();
         }
     }
 }
